@@ -1,8 +1,9 @@
 ### to start and run this program:
 - cd jaruratCare
 - npm install bootstrap
+- npm start
 
-npm start
+
 #jaruratCareREACT
 
 ![Screenshot 2024-09-20 at 7 13 01 PM](https://github.com/user-attachments/assets/39163af9-2bda-4415-a4b4-9f7e9480d487)
